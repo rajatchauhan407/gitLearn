@@ -22,9 +22,7 @@ const handleName = (event:any)=>{
   setFirstName(event.target.value);
   console.log(event.target.value);
 }
-  const num:number = 23;
-  let result:boolean = false;
-  // console.log(num);
+
  
 //  return React.createElement('div',{className:"App"},
 //  React.createElement(Greeter,{person:"Rajat"}),React.createElement(ShoppingList,{items:items}));
