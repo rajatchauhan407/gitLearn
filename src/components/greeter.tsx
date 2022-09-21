@@ -7,7 +7,7 @@ type AppProps = {
 function Greeter(props:AppProps):JSX.Element{
 
     return(
-        <h1>Hello! {props.person}</h1>
+        <h1>Hello! {props.person}... How are you buddy?</h1>
     )
 }
 
